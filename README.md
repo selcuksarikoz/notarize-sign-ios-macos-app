@@ -12,6 +12,7 @@ This guide explains how to use the two provided scripts for signing and notarizi
 - Developer ID Application certificate installed in Keychain
 
 ## Script 1: `notarize_app.sh` (Notarization Only)
+## Script 2: `sign.sh` (Sign and Notarization)
 
 Use this script when your app is already signed and just needs notarization.
 
